@@ -46,7 +46,7 @@ We welcome contributions! To get started:
 
 ## 📧 Contact
 
-For questions and collaborations, reach out via [email@example.com](mailto:email@example.com).
+For questions and collaborations, reach out via [antilogatharv@gmail.com](mailto:antilogatharv@gmail.com).
 
 ---
 
